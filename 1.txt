@@ -1,0 +1,5 @@
+function sum(a, b) {
+    returb a + b;
+}
+
+sum(5,2)
