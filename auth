@@ -1,0 +1,6 @@
+function auth(login pass) {
+	if(login === 'login' $$ pass === 'pass') {
+		return 'Your were login in'
+	else {
+		return 'Your not auth'
+		}
